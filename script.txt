@@ -1,0 +1,20 @@
+Chào mừng các bạn đến với khóa học lập trình căn bản cho người mới bắt đầu.
+Trong khóa học này chúng ta sẽ học những khái niệm cơ bản của lập trình thông qua ngôn ngữ lập trình Batch.
+Batch là một ngôn ngữ lập trình đơn giản dùng đê thực hiện các tác vụ trên máy tính.
+Bạn thắc mắc tại sao lại chọn Batch thay vì C++, Java hay Python,... như các kênh khác
+Bởi vì lập trình Batch không yêu cầu bạn phải tải hay cài đặt gì cả, bạn có thể code trên bất cứ IDE nào thậm chí là notepad vì vậy thậm chí bạn cũng có thể học khóa học lập trình này ngay tại tiệm net, rất phù hợp cho những bạn muốn học những kiến thức cơ bản mà không cần tải gì nhiều.
+Trong khóa học này chúng ta sẽ học qua những khái niệm cơ bản như:
+- Xuất ra Output echo
+- Nhập vào Input
+- Biến variable
+- 1 bài tập nhỏ nhập vào và in ra đơn giản
+- điều kiện if
+- loop như for hay while
+- array
+- hàm function, goto ,..
+- 1 bài tập nhỏ như todo list 
+- environment variable in batch
+- lệnh cơ bản windows
+- 1 số project ngoài đời mà sử dụng batch
+Bạn có thể xem thanh mục lục ở dưới
+
